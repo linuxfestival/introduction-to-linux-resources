@@ -68,9 +68,14 @@
 
 - ### systemd
   almost all of the information for systemd are taken from the following webistes:
-  [first](https://www.linux-magazine.com/Issues/2017/200/Tutorials-Systemd#article_f1)
-  [second](https://en.wikipedia.org/wiki/Systemd)
-  [third](https://www.freedesktop.org/wiki/Software/systemd/)
-  [fourth](https://www.linux.com/training-tutorials/understanding-and-using-systemd/)
-  [fifth](https://www.tutorialspoint.com/linux_admin/linux_admin_systemd_services_start_and_stop.htm)
+  
+  - [first](https://www.linux-magazine.com/Issues/2017/200/Tutorials-Systemd#article_f1)
+  
+  - [second](https://en.wikipedia.org/wiki/Systemd)
+  
+  - [third](https://www.freedesktop.org/wiki/Software/systemd/)
+  
+  - [fourth](https://www.linux.com/training-tutorials/understanding-and-using-systemd/)
+  
+  - [fifth](https://www.tutorialspoint.com/linux_admin/linux_admin_systemd_services_start_and_stop.htm)
 
